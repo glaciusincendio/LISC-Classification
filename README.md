@@ -1,1 +1,1 @@
-# LISC-Classification
+LISC: Leukocyte Images for Segmentation and Classification using Keras along with Grad-CAM class activation visualization. The dataset used can be found here - http://users.cecs.anu.edu.au/~hrezatofighi/Data/Leukocyte%20Data.htm
